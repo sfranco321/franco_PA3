@@ -1,5 +1,5 @@
-
 public class SavingsAccount {
+
     private static double savingsBalance;
     private static double annualInterestRate;
 
@@ -23,6 +23,5 @@ public class SavingsAccount {
     public static void printBalance() {
         System.out.printf("Your Balance is $%.2f\n", savingsBalance);
     }
-
 
 }
