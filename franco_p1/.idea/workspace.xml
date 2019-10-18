@@ -37,9 +37,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.franco_p1">
+  <component name="RunManager" selected="Application.franco_p2">
     <configuration name="franco_p1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="franco_p1" />
+      <module name="franco_p1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="franco_p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="franco_p2" />
       <module name="franco_p1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,6 +65,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.franco_p2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,7 +83,7 @@
       <updated>1571015420178</updated>
       <workItem from="1571015435210" duration="2344000" />
       <workItem from="1571289141345" duration="2906000" />
-      <workItem from="1571334991124" duration="11156000" />
+      <workItem from="1571334991124" duration="16653000" />
     </task>
     <servers />
   </component>
